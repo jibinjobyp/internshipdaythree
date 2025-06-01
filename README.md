@@ -110,4 +110,4 @@ This task provided hands-on experience with vulnerability assessment tools and a
 
 ---
 
-*Note: Always refer to official Microsoft advisories and trusted security sources for detailed information and guidance.*
+
